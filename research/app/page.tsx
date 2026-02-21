@@ -5,10 +5,7 @@ export default function Home() {
     <div>
       Think++ <br />
       A quiz app designed for comscie students only.
-      <button onClick={() => 
-        alert("Hello World!")}>
-          About
-          </button>
+      
     </div>
   );
 }
